@@ -13,11 +13,8 @@
   --rock-2: hsla(202, 100%, 36%, 1);
   --paper-1: hsla(32, 100%, 63%, 1);
   --paper-2: hsla(32, 100%, 63%, 1);
-  /* --shadow-light: #00000026;
-  --shadow-med: #0000004d; */
+  
 }
-/* hsl(214, 47%, 23%) */
-/* hsl(237, 49%, 15%) */
 * {
   margin: 0;
   padding: 0;
@@ -25,7 +22,6 @@
 }
 
 body {
-  /* font-family: "Barlow Semi Condensed", sans-serif; */
   background: radial-gradient(at top, var(--bg-grad-1), var(--bg-grad-2));
   min-height: 100vh;
   text-transform: uppercase;
